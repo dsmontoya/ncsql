@@ -1,0 +1,1 @@
+update Storage set transfered_to = 'invalid_destination' where transfered_to = '100';

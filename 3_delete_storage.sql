@@ -1,0 +1,1 @@
+delete from Storage where transfered_to = 'invalid_destination';
