@@ -1,0 +1,1 @@
+select count(model) from Product where maker = 'Hitachi' and type = 'laptop';
